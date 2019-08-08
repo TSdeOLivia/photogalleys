@@ -1,0 +1,27 @@
+.image-container{border:solid grey}
+img{width:300px;
+height:200px;}
+/* display:flex-wrap;} */
+
+.friends{width:250px;
+height:167px;}
+
+div{background-color:lightyellow;}
+.flags{border:groove brown;}
+.Janpan{border:dashed black;}
+
+h2{font-family:'Indie Flower', cursive;
+font-size:73px;
+background-color: red;}
+
+h1{font-family:'Dancing Script', cursive;
+font-size:50px;
+background-color: blue;}
+
+.plan{background-color: red;}
+
+@media only screen and(max-width:600px;)
+{.image-container{background-color: lightblue;}}
+
+h3{font-family: 'Rajdhani', sans-serif;
+font-size:30px;}
